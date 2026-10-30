@@ -42,6 +42,8 @@
 - [Color Palette](https://gen-kit.com/tools/color-palette/) — Color scheme generator
 - [Lorem Ipsum](https://gen-kit.com/tools/lorem-ipsum/) — Placeholder text
 - [QR Code Generator](https://gen-kit.com/tools/qr-code-generator/) — Create QR codes
+- [Data Matrix Generator](https://data-matrix-generator.com/) — Data Matrix and GS1 DataMatrix codes
+- [Seating Chart Generator](https://seating-chart-generator.com/) — Seating charts and place cards
 
 ## Developer Tools
 
@@ -61,6 +63,7 @@
 - [Color Converter](https://conv-kit.com/tools/color-converter/) — HEX, RGB, HSL conversion
 - [Number Base Converter](https://conv-kit.com/tools/number-base-converter/) — Binary, octal, hex
 - [Timestamp Converter](https://conv-kit.com/tools/timestamp-converter/) — Unix timestamp tools
+- [PKPASS Viewer](https://pkpassviewer.com/) — Open Apple Wallet .pkpass files in any browser
 
 ## SEO Tools
 
@@ -89,6 +92,7 @@
 - [Image Compressor](https://img-kit.com/tools/image-compressor/) — Compress images
 - [Image Converter](https://img-kit.com/tools/image-converter/) — Convert image formats
 - [Color Picker](https://img-kit.com/tools/color-picker/) — Pick colors from images
+- [Cross Stitch Pattern Maker](https://crossstitchpatternmaker.org/) — Photo to cross stitch chart with DMC threads
 
 ## PDF Tools
 
@@ -98,6 +102,7 @@
 - [PDF Split](https://the-pdf.com/tools/pdf-split/) — Split PDF pages
 - [PDF Compress](https://the-pdf.com/tools/pdf-compress/) — Reduce PDF size
 - [PDF to Image](https://the-pdf.com/tools/pdf-to-image/) — Convert PDF to images
+- [EML to PDF](https://emltopdf.net/) — Save .eml, .msg and .mbox emails as PDFs
 
 ## Download Tools
 
